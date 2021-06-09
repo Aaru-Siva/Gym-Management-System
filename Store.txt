@@ -1,0 +1,3 @@
+ Membership Number : 1 Name : John startMembershipDate : 12/02/2017 phoneNumber : 0779899699
+ Membership Number : 2 Name : Kaamali startMembershipDate : 31/07/2020 phoneNumber : 0769399495 schoolName : rc
+ Membership Number : 3 Name : Rahu startMembershipDate : 22/02/2019 phoneNumber : 0789699858 Age : 65
